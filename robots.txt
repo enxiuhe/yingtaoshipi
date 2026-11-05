@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enxiuhe.github.io/yingtaoshipi/sitemap.xml
